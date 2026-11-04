@@ -2,14 +2,14 @@
 
 # Zhewei Shen · 沈哲炜
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=680&lines=LLM+Safety+%26+Evaluation;Benchmarks+%C2%B7+LLM-as-a-Judge;Reproducible+Experiments+%C2%B7+Open+Research" alt="LLM safety, evaluation, and reproducible experiments" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=680&lines=LLM+Safety+%26+Evaluation;Budgeted+Search+%C2%B7+LLM-as-a-Judge;Reproducible+Experiments+%C2%B7+Benchmarks" alt="LLM safety, budgeted search, and evaluation" />
 
-**大模型安全与评测研究｜从风险样本构建到自动评分与实验验证**
+**大模型安全与评测研究｜有限预算搜索、风险样本构建与可靠评测**
 
 希望参与 **AI 安全算法 / 大模型评测** 相关研究型实习，对 Agent 安全感兴趣。
 
 [![Paper](https://img.shields.io/badge/Scientometrics-First_Author_2026-16803C?style=flat-square)](https://doi.org/10.1007/s11192-026-05773-0)
-[![WSDM 2027](https://img.shields.io/badge/WSDM_2027-Main_Conference_Accepted-006D77?style=flat-square)](#-publications)
+[![WSDM 2027 First Author Accepted](https://img.shields.io/badge/WSDM_2027-First_Author_%C2%B7_Accepted-006D77?style=flat-square)](#-publications)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Code_%26_Data-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/universe-szw/scientometric-llm-ethics-benchmark)
 
 [Featured Work](#-featured-work) · [Publications](#-publications) · [Toolkit](#-toolkit)
@@ -48,6 +48,7 @@
 ## 📄 Publications
 
 **Finite-Budget Pair-Span Search for Classifier-Based Prompt Screening**<br>
+**Zhewei Shen** et al. · **第一作者**<br>
 *WSDM 2027* · **Main Conference 已录用** · To appear
 
 研究固定分类器下的有限预算擦除-检查搜索，结合单片段证据、自适应双片段配对与确定性几何覆盖，分析攻击恢复率、查询成本与良性误报之间的权衡。
@@ -64,8 +65,8 @@
 
 | Research & Evaluation | Experiments & Analysis |
 | --- | --- |
-| LLM-as-a-Judge · Benchmark 设计 · 人工验证 | Python · PyTorch · NumPy · Pandas |
-| 安全评测 · 评审敏感性分析 · 结果聚合 | pytest · GitHub Actions · Matplotlib · LaTeX |
+| 有限预算搜索 · 对抗提示筛查 · 安全评测 | Python · PyTorch · NumPy · Pandas |
+| LLM-as-a-Judge · Benchmark 设计 · 人工验证 | pytest · GitHub Actions · Matplotlib · LaTeX |
 
 ## 🐍 Contributions
 
