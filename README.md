@@ -9,9 +9,10 @@
 希望参与 **AI 安全算法 / 大模型评测** 相关研究型实习，对 Agent 安全感兴趣。
 
 [![Paper](https://img.shields.io/badge/Scientometrics-First_Author_2026-16803C?style=flat-square)](https://doi.org/10.1007/s11192-026-05773-0)
+[![WSDM 2027](https://img.shields.io/badge/WSDM_2027-Main_Conference_Accepted-006D77?style=flat-square)](#-publications)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Code_%26_Data-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/universe-szw/scientometric-llm-ethics-benchmark)
 
-[Featured Work](#-featured-work) · [Publication](#-publication) · [Toolkit](#-toolkit)
+[Featured Work](#-featured-work) · [Publications](#-publications) · [Toolkit](#-toolkit)
 
 </div>
 
@@ -44,7 +45,12 @@
 
 **Explore** → [Code & Data](https://github.com/universe-szw/scientometric-llm-ethics-benchmark) · [Data Card](https://github.com/universe-szw/scientometric-llm-ethics-benchmark/blob/main/DATA_CARD.md) · [Quick Start](https://github.com/universe-szw/scientometric-llm-ethics-benchmark#quick-start-without-an-api-key) · [Paper](https://doi.org/10.1007/s11192-026-05773-0)
 
-## 📄 Publication
+## 📄 Publications
+
+**Finite-Budget Pair-Span Search for Classifier-Based Prompt Screening**<br>
+*WSDM 2027* · **Main Conference 已录用** · To appear
+
+研究固定分类器下的有限预算擦除-检查搜索，结合单片段证据、自适应双片段配对与确定性几何覆盖，分析攻击恢复率、查询成本与良性误报之间的权衡。
 
 **Ethical evaluation of large language models for scientometrics: a multidimensional perspective**  
 **Zhewei Shen** et al. · 第一作者 · *Scientometrics* **131**, 7001–7024 (2026)<br>
