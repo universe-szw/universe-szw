@@ -12,6 +12,8 @@
 [![WSDM 2027 First Author Accepted](https://img.shields.io/badge/WSDM_2027-First_Author_%C2%B7_Accepted-006D77?style=flat-square)](#-publications)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Code_%26_Data-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/universe-szw/scientometric-llm-ethics-benchmark)
 
+[ORCID: 0009-0009-2262-8863](https://orcid.org/0009-0009-2262-8863)
+
 [Featured Work](#-featured-work) · [Publications](#-publications) · [Toolkit](#-toolkit)
 
 </div>
