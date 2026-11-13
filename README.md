@@ -6,8 +6,6 @@
 
 **大模型安全与评测研究｜有限预算搜索、风险样本构建与可靠评测**
 
-希望参与 **AI 安全算法 / 大模型评测** 相关研究型实习，对 Agent 安全感兴趣。
-
 [![Paper](https://img.shields.io/badge/Scientometrics-First_Author_2026-16803C?style=flat-square)](https://doi.org/10.1007/s11192-026-05773-0)
 [![WSDM 2027 First Author Accepted](https://img.shields.io/badge/WSDM_2027-First_Author_%C2%B7_Accepted-006D77?style=flat-square)](#-publications)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Code_%26_Data-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/universe-szw/scientometric-llm-ethics-benchmark)
@@ -19,6 +17,16 @@
 </div>
 
 ## 🔬 Featured Work
+
+### [PairSpan-EC](https://github.com/universe-szw/pairspan-ec)
+
+**WSDM 2027 Main Conference 已录用论文的代码与数值记录。** 面向固定分类器的有限预算擦除-检查搜索，结合单片段证据、自适应片段对排序与确定性几何覆盖，研究攻击恢复、查询成本和良性误报之间的权衡。
+
+- **搜索实现**：在共同分类器评估上限内执行分阶段搜索，显著性梯度计算另行计数。
+- **数值复算**：提供去标识化测量记录，以及校准工作点、置信区间和配对差异的离线复算脚本，无需 GPU 或 API Key。
+- **结果范围**：同时保留默认判决、跨方法校准和外部攻击评估结果，区分共同预算与参考调度；原始提示文本和模型权重不包含在发布包中。
+
+**Explore** → [Code & Numerical Records](https://github.com/universe-szw/pairspan-ec) · [Quick Start](https://github.com/universe-szw/pairspan-ec#quick-start-without-a-gpu-or-api-key) · [Result Map](https://github.com/universe-szw/pairspan-ec/blob/main/RESULT_MAP.md)
 
 ### [Scientometric LLM Ethics Benchmark](https://github.com/universe-szw/scientometric-llm-ethics-benchmark)
 
@@ -54,6 +62,8 @@
 *WSDM 2027* · **Main Conference 已录用** · To appear
 
 研究固定分类器下的有限预算擦除-检查搜索，结合单片段证据、自适应双片段配对与确定性几何覆盖，分析攻击恢复率、查询成本与良性误报之间的权衡。
+
+[Code & Numerical Records](https://github.com/universe-szw/pairspan-ec)
 
 **Ethical evaluation of large language models for scientometrics: a multidimensional perspective**  
 **Zhewei Shen** et al. · 第一作者 · *Scientometrics* **131**, 7001–7024 (2026)<br>
